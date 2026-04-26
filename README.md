@@ -15,7 +15,7 @@ It currently publishes configuration artifacts (for example, Java formatting sty
 <dependency>
     <groupId>cl.kanopus.util</groupId>
     <artifactId>klib-default-config</artifactId>
-    <version>4.06.0</version>
+    <version>4.06.3</version>
 </dependency>
 ```
 
