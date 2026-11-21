@@ -7,7 +7,7 @@
     <parent>
         <groupId>cl.kanopus</groupId>
         <artifactId>kanopus-core-parent</artifactId>
-        <version>4.06.3</version>
+        <version>4.20.0</version>
     </parent>
 
     <groupId>cl.kanopus.util</groupId>
@@ -16,5 +16,14 @@
 
     <name>klib-default-config</name>
     <description>Shared build configuration resources (Spotless style, etc.)</description>
+
+    <url>https://github.com/godheaven/klib-default-config</url>
+
+    <scm>
+        <connection>scm:git:https://github.com/godheaven/klib-default-config.git</connection>
+        <developerConnection>scm:git:https://github.com/godheaven/klib-default-config.git</developerConnection>
+        <url>https://github.com/godheaven/klib-default-config</url>
+        <tag>HEAD</tag>
+    </scm>
 
 </project>

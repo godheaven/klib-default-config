@@ -15,11 +15,11 @@ It currently publishes configuration artifacts (for example, Java formatting sty
 <dependency>
     <groupId>cl.kanopus.util</groupId>
     <artifactId>klib-default-config</artifactId>
-    <version>4.06.3</version>
+    <version>4.20.0</version>
 </dependency>
 ```
 
-> If your organization publishes a different version, replace `4.05.2` with the version available in your Maven repository.
+> If your organization publishes a different version, replace `4.20.0` with the version available in your Maven repository.
 
 ## Recommended Usage
 
